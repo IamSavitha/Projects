@@ -1,0 +1,7 @@
+course_id, course_name, credits, description
+DATA200,Data analytics Python and DS ,3,foundation for ML 
+DATA300,Python for Data Analytics,3,Python for Data Analytics foundation for ML and AI 
+DATA400,SQL,3,SQL FOR DB
+DATA100,MACHINE LEARNING,3, ML and AI
+DATA313,COMPUTER SCIENCE ,2,computer programming and algorithm
+DATA323,Design architecture,3,Architecture of system 

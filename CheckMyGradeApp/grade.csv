@@ -1,0 +1,8 @@
+grade_id,grades,mark_range,credits
+A+,96to100,3
+A,91to95,2.9
+B+,86to90,2.8
+B,81to85,2.7
+C+,76to80,2.6
+C,71to75,2.5
+F,0to70,0S,100to100,3
