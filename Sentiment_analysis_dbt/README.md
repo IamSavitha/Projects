@@ -1,15 +1,23 @@
-Welcome to your new dbt project!
+# 🐦 Tweet Sentiment Analysis to Predict Stock Price
 
-### Using the starter project
+## Overview
+This project analyzes tweets about financial topics using sentiment analysis and compares the results to stock price trends. It helps identify how public sentiment correlates with stock market movement.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Features
+- Twitter API integration using Tweepy
+- Sentiment analysis with TextBlob and NLTK
+- Correlation with stock market data
+- Word cloud and timeline visualizations
 
+## Technologies Used
+- Python (Tweepy, TextBlob, NLTK)
+- Matplotlib, Pandas
+- Yahoo Finance API
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Usage
+1. Run `tweet_scraper.py` to collect tweets.
+2. Process tweets using `sentiment_analysis.py`.
+3. Run `visualize.py` to compare sentiment vs stock price.
+
+## Repository
+[View GitHub Repository](https://github.com/IamSavitha/Projects/Sentiment_analysis_dbt)
