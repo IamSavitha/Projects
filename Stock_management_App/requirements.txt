@@ -1,0 +1,9 @@
+# Core Python packages
+pandas==2.0.3
+
+# GUI
+# Tkinter comes with Python, no installation needed
+
+# Testing
+pytest==7.4.0
+
